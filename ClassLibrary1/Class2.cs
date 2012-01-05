@@ -5,7 +5,8 @@ using System.Text;
 
 namespace ClassLibrary1
 {
-    class Class2
+    public class Class2
     {
+        public void Method1() { }
     }
 }
